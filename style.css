@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: #E0FBFC;
+}
+div{
+    text-align: center;
+}
