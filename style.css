@@ -28,5 +28,10 @@ p {
 .btn:hover {
     color: #5C6B73;
     border-color: #5C6B73;
-    background-color: #a9ccdf ;
+    background-color: #a9ccdf;
+}
+
+ul {
+    text-align: left;
+    margin-top: 50px;
 }
