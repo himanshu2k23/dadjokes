@@ -1,20 +1,32 @@
-body{
+body {
     display: flex;
     font-family: 'Noto Serif Lao', serif;
     justify-content: center;
     background: #E0FBFC;
 }
-div{
+
+div {
     text-align: center;
 }
-h1{
+
+h1 {
     font-family: 'Tilt Prism', cursive;
     font-size: 130px;
+    color: #253237;
 }
-p{
-    
-}
-.btn{
-    padding: 10px 25px;
 
+p {
+    color: #253237;
+}
+
+.btn {
+    padding: 10px 25px;
+    color: #3e84aa;
+    border-color: #3e84aa;
+}
+
+.btn:hover {
+    color: #5C6B73;
+    border-color: #5C6B73;
+    background-color: #a9ccdf ;
 }
