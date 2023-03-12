@@ -1,8 +1,20 @@
 body{
     display: flex;
+    font-family: 'Noto Serif Lao', serif;
     justify-content: center;
     background: #E0FBFC;
 }
 div{
     text-align: center;
+}
+h1{
+    font-family: 'Tilt Prism', cursive;
+    font-size: 130px;
+}
+p{
+    
+}
+.btn{
+    padding: 10px 25px;
+
 }
